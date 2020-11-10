@@ -1,0 +1,211 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "postTitle": "The Secret of Failure",
+      "url": "https://images.unsplash.com/photo-1507065255811-f3b9fe968f84?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Team",
+      "content": "On a bright sunny morning a group of kids in the neighbourhood found an open field inviting for a game of football.  However, there was an issue—they didn’t have a football kit.  So, the kids decided that each one of them would bring one item to build the kit.  One brought the football, another got the corner flag, and the remaining brought(..)",
+      "userId": 1,
+      "postDate": "02-11-2020"
+    },
+    {
+      "id": 2,
+      "postTitle": "I Am Not the Only One",
+      "url": "https://images.unsplash.com/photo-1506269351850-0428eaed2193?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=750&q=80",
+      "category": "Team",
+      "content": "A day in the COVID-19 life. I was out of shape. And so, about 15(..)",
+      "userId": 1,
+      "postDate": "02-11-2020"
+    },
+    {
+      "id": 3,
+      "postTitle": "Hamari Kahani – Version 1",
+      "url": "https://images.unsplash.com/photo-1485237254814-0003b25e5672?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Attitude",
+      "content": "Co-authored by Shamshu Hirani & Arun Nathani An IT professional while getting ready for work, gazed in the mirror and noticed a grey strand of hair.  “Age is catching up,” he reflected gloomily, “and I still haven’t found my life partner!”  His glance slid down to his old, faded(..)",
+      "postDate": "01-11-2020",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "postTitle": "Hamari Kahani – Version 2",
+      "url": "https://images.unsplash.com/photo-1500073584060-670c36a703f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Attitude",
+      "content": "Co-authored by Rohan Autee & Arun Nathani  An IT professional while getting ready for work, gazed in the mirror and noticed a grey strand of hair.  “Age is catching up,” he reflected gloomily, “and I still haven’t found my life partner!”  His glance slid down to his old, faded(..)",
+      "userId": 1,
+      "postDate": "01-11-2020"
+    },
+    {
+      "id": 5,
+      "postTitle": "Dil Chahta Hai!",
+      "url": "https://images.unsplash.com/photo-1500754088824-ce0582cfe45f?ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80",
+      "category": "Purpose",
+      "content": "Yeh dosti… The older we get, the difficult it becomes to make(..)",
+      "userId": 1,
+      "postDate": "31-10-2020"
+    },
+    {
+      "id": 6,
+      "postTitle": "Taare Zameen Par",
+      "url": "https://images.unsplash.com/photo-1501696461415-6bd6660c6742?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+      "category": "Purpose",
+      "content": "Today is Cybage’s Silver Jubilee Anniversary.  It has been a(..)",
+      "userId": 1,
+      "postDate": "31-10-2020"
+    },
+    {
+      "id": 7,
+      "postTitle": "My journey to meditation",
+      "content": "<span style=\"color: rgb(90, 97, 117); font-family: Apercu, sans-serif; font-size: 20px; text-align: center; background-color: rgb(239, 236, 231);\">So you’ve decided to start looking after the health of your mind by meditating. But where to begin? How to get started? What are the basics? How will it feel? What to expect? All perfectly normal questions, and, lucky for you, we’re here with the answers you need to get started.</span>",
+      "category": "Attitude",
+      "userId": 1,
+      "url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "postTitle": "Way to heaven!",
+      "content": "<p style=\"margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(32, 33, 34); font-family: sans-serif;\"><b>Heaven</b>&nbsp;or&nbsp;<b>the heavens</b>, is a common&nbsp;<a href=\"https://en.wikipedia.org/wiki/Religious_cosmology\" title=\"Religious cosmology\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">religious cosmological</a>&nbsp;or&nbsp;<a href=\"https://en.wikipedia.org/wiki/Transcendence_(religion)\" title=\"Transcendence (religion)\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">transcendent</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Supernatural\" title=\"Supernatural\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">supernatural</a>&nbsp;place where beings such as&nbsp;<a href=\"https://en.wikipedia.org/wiki/Deity\" title=\"Deity\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">gods</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Angel\" title=\"Angel\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">angels</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Spirit\" title=\"Spirit\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">spirits</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Saint\" title=\"Saint\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">saints</a>, or&nbsp;<a href=\"https://en.wikipedia.org/wiki/Veneration_of_the_dead\" title=\"Veneration of the dead\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">venerated ancestors</a>&nbsp;are said to originate, be&nbsp;<a href=\"https://en.wikipedia.org/wiki/Throne\" title=\"Throne\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">enthroned</a>, or live. According to the beliefs of some religions, heavenly beings can descend to Earth or&nbsp;<a href=\"https://en.wikipedia.org/wiki/Incarnation\" title=\"Incarnation\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">incarnate</a>&nbsp;and earthly beings can ascend to Heaven in the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Afterlife\" title=\"Afterlife\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">afterlife</a>&nbsp;or, in exceptional cases,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Entering_Heaven_alive\" class=\"mw-redirect\" title=\"Entering Heaven alive\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">enter Heaven alive</a>.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(32, 33, 34); font-family: sans-serif;\">Heaven is often described as a \"highest place\", the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sacred\" title=\"Sacred\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">holiest</a>&nbsp;place, a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Paradise\" title=\"Paradise\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Paradise</a>, in contrast to&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hell\" title=\"Hell\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">hell</a>&nbsp;or the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Underworld\" title=\"Underworld\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Underworld</a>&nbsp;or the \"low places\" and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Universal_reconciliation\" class=\"mw-redirect\" title=\"Universal reconciliation\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">universally</a>&nbsp;or conditionally accessible by earthly beings according to various standards of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Divinity\" title=\"Divinity\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">divinity</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Good_and_evil\" title=\"Good and evil\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">goodness</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Piety\" title=\"Piety\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">piety</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Faith\" title=\"Faith\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">faith</a>, or other&nbsp;<a href=\"https://en.wikipedia.org/wiki/Virtue\" title=\"Virtue\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">virtues</a>&nbsp;or&nbsp;<a href=\"https://en.wikipedia.org/wiki/Orthodoxy\" title=\"Orthodoxy\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">right beliefs</a>&nbsp;or simply&nbsp;<a href=\"https://en.wikipedia.org/wiki/Divine_will\" class=\"mw-redirect\" title=\"Divine will\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">divine will</a>. Some believe in the possibility of a heaven on Earth in a&nbsp;<i><a href=\"https://en.wikipedia.org/wiki/World_to_come\" title=\"World to come\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">world to come</a></i>.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; color: rgb(32, 33, 34); font-family: sans-serif;\">Another belief is in an&nbsp;<a href=\"https://en.wikipedia.org/wiki/Axis_mundi\" title=\"Axis mundi\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">axis mundi</a>&nbsp;or&nbsp;<a href=\"https://en.wikipedia.org/wiki/World_tree\" title=\"World tree\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">world tree</a>&nbsp;which connects the heavens, the terrestrial world, and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Underworld\" title=\"Underworld\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">underworld</a>. In&nbsp;<a href=\"https://en.wikipedia.org/wiki/Indian_religions\" title=\"Indian religions\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Indian religions</a>, heaven is considered as&nbsp;<i><a href=\"https://en.wikipedia.org/wiki/Svarga\" title=\"Svarga\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Svarga loka</a></i>,<sup id=\"cite_ref-1\" class=\"reference\" style=\"line-height: 1; unicode-bidi: isolate; white-space: nowrap; font-size: 11.2px;\"><a href=\"https://en.wikipedia.org/wiki/Heaven#cite_note-1\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">[1]</a></sup>&nbsp;and the soul is again subjected to&nbsp;<a href=\"https://en.wikipedia.org/wiki/Reincarnation\" title=\"Reincarnation\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">rebirth</a>&nbsp;in different living forms according to its&nbsp;<i><a href=\"https://en.wikipedia.org/wiki/Karma\" title=\"Karma\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">karma</a></i>. This cycle can be broken after a soul achieves&nbsp;<i><a href=\"https://en.wikipedia.org/wiki/Moksha\" title=\"Moksha\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Moksha</a></i>&nbsp;or&nbsp;<i><a href=\"https://en.wikipedia.org/wiki/Nirvana\" title=\"Nirvana\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Nirvana</a></i>. Any place of existence, either of humans, souls or deities, outside the tangible world (Heaven, Hell, or other) is referred to as the&nbsp;<i><a href=\"https://en.wikipedia.org/wiki/Otherworld\" title=\"Otherworld\" style=\"color: rgb(11, 0, 128); background-image: none; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">otherworld</a></i>.</p>",
+      "category": "Attitude",
+      "url": "https://images.unsplash.com/photo-1559595500-e15296bdbb48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+      "id": 8,
+      "userId": 1
+    },
+    {
+      "postTitle": "Project Files",
+      "content": "Luck!!!!!!!!!!!!!",
+      "category": "Luck",
+      "url": "https://images.unsplash.com/photo-1547555999-14e818e09e33?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "id": 9,
+      "userId": 1
+    },
+    {
+      "postTitle": "Project Files",
+      "content": "Luck is luck!",
+      "category": "Luck",
+      "url": "https://images.unsplash.com/photo-1547555999-14e818e09e33?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "id": 10,
+      "userId": 1
+    },
+    {
+      "postTitle": "My journey",
+      "content": "adfadsg",
+      "category": "Luck",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "id": 11,
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "Anny",
+      "password": "abc"
+    },
+    {
+      "id": 2,
+      "userName": "Rhea",
+      "password": "abc"
+    },
+    {
+      "id": 3,
+      "userName": "Rachel",
+      "password": "abc"
+    },
+    {
+      "id": 4,
+      "userName": "Monica",
+      "password": "abc"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "userId": 1,
+      "profilePic": "../images/minion1.jpg"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "profilePic": "../images/minion2.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 2,
+      "userId": 1,
+      "userName": "Anny",
+      "comment": "This is amazing"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "userId": 2,
+      "userName": "Rhea",
+      "comment": "This is amazing"
+    },
+    {
+      "postId": 10,
+      "userId": "1",
+      "comment": "",
+      "userName": "Anny",
+      "id": 3
+    },
+    {
+      "postId": 10,
+      "userId": "1",
+      "comment": "",
+      "userName": "Anny",
+      "id": 4
+    },
+    {
+      "postId": 10,
+      "userId": "1",
+      "comment": "",
+      "userName": "Anny",
+      "id": 5
+    },
+    {
+      "postId": 10,
+      "userId": "1",
+      "comment": "",
+      "userName": "Anny",
+      "id": 6
+    },
+    {
+      "postId": 11,
+      "userId": "1",
+      "comment": "lets check for the commets",
+      "userName": "Anny",
+      "id": 7
+    },
+    {
+      "postId": 2,
+      "userId": 3,
+      "userName": "Rachel",
+      "comment": "asas",
+      "id": 8
+    },
+    {
+      "postId": 2,
+      "userId": 3,
+      "userName": "Rachel",
+      "comment": "asdasd",
+      "id": 9
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "postId": 2,
+      "userName": "Anny",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "userName": "Rhea",
+      "userId": 2
+    }
+  ]
+}

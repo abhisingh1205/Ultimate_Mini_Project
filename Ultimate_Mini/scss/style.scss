@@ -1,0 +1,57 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@import "variables";
+
+@import "bg-gradient";
+
+@import "blog";
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "dashboard";
+
+@import "cards";
+
+@import "bg-stripped";
+
+.content,
+.content1 {
+  margin-top: 5rem;
+}
+
+@media (min-width: 768px) {
+  .content1 {
+    margin-top: 0;
+  }
+}
+.feather {
+  width: 16px;
+  height: 16px;
+  margin: 9px 0;
+}
+
+.up-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 50%;
+}
+// // Required
+// @import "../node_modules/bootstrap/scss/functions";
+// @import "../node_modules/bootstrap/scss/variables";
+// @import "../node_modules/bootstrap/scss/mixins";
+
+// // Optional
+// @import "../node_modules/bootstrap/scss/reboot";
+// @import "../node_modules/bootstrap/scss/type";
+// @import "../node_modules/bootstrap/scss/images";
+// @import "../node_modules/bootstrap/scss/code";
+// @import "../node_modules/bootstrap/scss/grid";
+
+// @import "../node_modules/bootstrap/scss/utilities";
+// @import "../node_modules/bootstrap/scss/transitions";
+// @import "../node_modules/bootstrap/scss/nav";
+// @import "../node_modules/bootstrap/scss/navbar";
+// @import "../node_modules/bootstrap/scss/dropdown";
